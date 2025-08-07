@@ -4,7 +4,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { ToastContainer } from 'react-toastify';
 import axios from 'axios';
 
-import MainLayout from './layout/Mainlayout.jsx';
+import MainLayout from "./layout/MainLayout.jsx";
 import OtherLayout from './layout/OtherLayout.jsx';
 
 import Home from './pages/Home/page';

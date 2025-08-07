@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-bg{
+    background-color:  rgba(255, 255, 255, 0.855);
+}
